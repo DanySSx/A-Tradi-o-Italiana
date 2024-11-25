@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tradição Italiana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Tradição Italiana</h1>
+        <nav>
+            <ul>
+                <li><a href="#culinaria">Culinária</a></li>
+                <li><a href="#festas">Festas</a></li>
+                <li><a href="#musica">Música</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="culinaria">
+            <h2>Culinária Italiana</h2>
+            <p>
+                A culinária italiana é conhecida mundialmente por sua simplicidade e sabor. Pratos como pizza, lasanha e tiramisu encantam pessoas em todos os cantos do mundo.
+            </p>
+        </section>
+        <section id="festas">
+            <h2>Festas e Tradições</h2>
+            <p>
+                A Itália celebra festas icônicas como o Carnaval de Veneza e a Páscoa, sempre com muita música, comida e alegria.
+            </p>
+        </section>
+        <section id="musica">
+            <h2>Música Italiana</h2>
+            <p>
+                Com estilos que vão da ópera ao pop moderno, a música italiana influenciou culturas ao redor do mundo. Artistas como Andrea Bocelli e Laura Pausini são exemplos de sucesso.
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Tradição Italiana. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
